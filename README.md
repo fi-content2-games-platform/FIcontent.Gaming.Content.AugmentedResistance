@@ -1,2 +1,3 @@
-# FIcontent.Gaming.Content.AugmentedResistance
+# AugmentedResistance
+
 Resources and instructions for Augmented Resistance game
