@@ -22,7 +22,7 @@ You can easily craft your own probe stand and place it in the center of the boar
 Here's an example:
 
 ![alt text](images/ghetto_base.JPG "Paper crafted base")
-[[images/ghetto_base.JPG|width=200px]]
+[[/images/ghetto_base.JPG|width=100px]]
 
 ### 3d Printable Base
 
