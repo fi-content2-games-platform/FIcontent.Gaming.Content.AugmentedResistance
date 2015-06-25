@@ -10,6 +10,16 @@ You need to download and print one of the following image markers to play the ga
 
 [Download image marker (high res)](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/releases/download/1.0/marker_hi.jpg)
 
+Once you have printed the image marker, start the game and point your device towards the marker!
+
+### Static vs dynamic lighting
+
+This game supports dynamic lighting with a light probe. To enable dynamic lighting you can access the game settings from the main menu. You will also need something to act as a light probe: a ping pong ball will do the job!
+
+### Crafting the base
+
+You can easily craft your own probe stand and place it in the center of the board. Here's an example
+
 ### 3d Printable Base
 
 ![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/board_setup.JPG "Board setup")
