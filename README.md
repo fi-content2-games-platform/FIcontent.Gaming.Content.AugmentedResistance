@@ -12,6 +12,8 @@ You need to download and print one of the following image markers to play the ga
 
 ### 3d Printable Base
 
+![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/board_setup.JPG "Board setup")
+
 You can download this package that contains the files to 3d print your base. The base must be 5cm high on a A3 marker. The game contains a debug UI accessible from the bottom left corner of the game screen that allows you to adjust the light probe settings to match your base.
 Place a ping pong ball or any similar ball over the base as a light probe.
 Within the game settings check the light probe toggle and then start the game.
