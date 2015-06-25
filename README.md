@@ -20,7 +20,7 @@ This game supports dynamic lighting by using a light probe. To enable dynamic li
 
 You can easily craft your own probe stand and place it in the center of the board. The cylinder height should be 5cm.
 Here's an example:
-<img src=images/ghetto_base.JPG width=600 height=100 />
+<img src=images/ghetto_base.JPG height=100 />
 ![alt text](images/ghetto_base.JPG "Paper crafted base")
 
 ### 3d Printable Base
