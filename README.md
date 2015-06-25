@@ -8,7 +8,7 @@ You need to download and print one of the following image markers to play the ga
 
 [Download image marker (low res)](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/releases/download/1.0/marker_low.jpg)
 
-[Download image marker (high res)](releases/download/1.0/marker_hi.jpg)
+[Download image marker (high res)](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/releases/download/1.0/marker_hi.jpg)
 
 Once you have printed the image marker, start the game and point your device towards the marker!
 
@@ -22,6 +22,7 @@ You can easily craft your own probe stand and place it in the center of the boar
 Here's an example:
 
 ![alt text](images/ghetto_base.JPG "Paper crafted base")
+[images/ghetto_base.JPG|width=200px)
 
 ### 3d Printable Base
 
