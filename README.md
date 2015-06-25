@@ -14,20 +14,26 @@ Once you have printed the image marker, start the game and point your device tow
 
 ### Static vs dynamic lighting
 
-This game supports dynamic lighting with a light probe. To enable dynamic lighting you can access the game settings from the main menu. You will also need something to act as a light probe: a ping pong ball will do the job!
+This game supports dynamic lighting by using a light probe. To enable dynamic lighting you can access the game settings from the main menu. You will also need something to act as a light probe: a ping pong ball will do the job perfectly!
 
 ### Crafting the base
 
-You can easily craft your own probe stand and place it in the center of the board. Here's an example
+You can easily craft your own probe stand and place it in the center of the board. The cylinder height should be 5cm.
+Here's an example:
+
+![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/ghetto_base.JPG "Paper crafted base")
 
 ### 3d Printable Base
 
-![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/board_setup.JPG "Board setup")
+In alternative you can 3d print our base model to place your light probe. Here's how it looks like:
 
-You can download this package that contains the files to 3d print your base. The base must be 5cm high on a A3 marker. The game contains a debug UI accessible from the bottom left corner of the game screen that allows you to adjust the light probe settings to match your base.
-Place a ping pong ball or any similar ball over the base as a light probe.
-Within the game settings check the light probe toggle and then start the game.
+![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/3d_print_base.JPG "3d printed base")
+
+
+You can download the package linked below that contains the files to 3d print your base. Note that the base must be 5cm high on a A3 marker. The game contains a secret debug GUI accessible from the bottom left corner of the game screen that allows you to adjust the light probe position to match your base in case you need it.
 Enjoy dynamic lighting in AR!
 
 [Download 3d printable base](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/releases/download/1.0/base.rar)
+
+![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/board_setup.JPG "Final board setup")
 
