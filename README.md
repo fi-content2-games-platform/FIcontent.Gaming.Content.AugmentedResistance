@@ -8,7 +8,7 @@ You need to download and print one of the following image markers to play the ga
 
 [Download image marker (low res)](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/releases/download/1.0/marker_low.jpg)
 
-[Download image marker (high res)](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/releases/download/1.0/marker_hi.jpg)
+[Download image marker (high res)](releases/download/1.0/marker_hi.jpg)
 
 Once you have printed the image marker, start the game and point your device towards the marker!
 
