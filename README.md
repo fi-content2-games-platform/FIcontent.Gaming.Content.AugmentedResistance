@@ -27,8 +27,7 @@ Here's an example:
 
 In alternative you can 3d print our base model to place your light probe. Here's how it looks like:
 
-![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/3d_print_base.JPG =250x)
-
+![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/3d_print_base.JPG "3d printed base")
 
 You can download the package linked below that contains the files to 3d print your base. Note that the base must be 5cm high on a A3 marker. The game contains a secret debug GUI accessible from the bottom left corner of the game screen that allows you to adjust the light probe position to match your base in case you need it.
 Enjoy dynamic lighting in AR!
