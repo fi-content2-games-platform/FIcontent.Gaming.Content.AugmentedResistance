@@ -21,13 +21,13 @@ This game supports dynamic lighting by using a light probe. To enable dynamic li
 You can easily craft your own probe stand and place it in the center of the board. The cylinder height should be 5cm.
 Here's an example:
 
-![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/ghetto_base.JPG "Paper crafted base" =250x)
+![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/ghetto_base.JPG "Paper crafted base")
 
 ### 3d Printable Base
 
 In alternative you can 3d print our base model to place your light probe. Here's how it looks like:
 
-![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/3d_print_base.JPG "3d printed base")
+![alt text](https://github.com/fi-content2-games-platform/FIcontent.Gaming.Content.AugmentedResistance/blob/master/images/3d_print_base.JPG =250x)
 
 
 You can download the package linked below that contains the files to 3d print your base. Note that the base must be 5cm high on a A3 marker. The game contains a secret debug GUI accessible from the bottom left corner of the game screen that allows you to adjust the light probe position to match your base in case you need it.
